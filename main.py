@@ -32,15 +32,12 @@ packages = \
 "ttf-google-fonts-git",
 "nerd-fonts",
 "fc-cache -fv",
-"",
-"",
+#Утилиты
 "inetutils",
 "pkgfile",
 "base-devel",
-"",
-"",
-"",
-"",
+#Обновления
+"sudo pacman -Syu"
 
 ]
 
