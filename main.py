@@ -13,6 +13,7 @@ packages = \
 "gtk4",
 "neofetch",
 "w3m",
+"sudo pacman -S gnome-screenshot"
 #Шрифты !
 "ttf-dejavu",
 "ttf-font-awesome",
@@ -32,10 +33,14 @@ packages = \
 "ttf-google-fonts-git",
 "nerd-fonts",
 "fc-cache -fv",
+#--------------------
+"noto-fonts-emoji",
+"ttf-joypixels",
 #Утилиты
 "inetutils",
 "pkgfile",
 "base-devel",
+"grim",
 #Обновления
 "sudo pacman -Syu"
 
