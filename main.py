@@ -2,6 +2,7 @@ import subprocess
 
 packages = \
 ["swaybg", #Основные пакеты!
+"hyprlock",
 "kiity",
 "waybar",
 "fish",
